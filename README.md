@@ -3,13 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=projectsofmlee" alt="projectsofmlee" /></a> </p>
 
-- 🔭 I’m currently working on **🤫**
-
 - 🌱 I’m currently learning **Rust, C++ and genAI-related frameworks**
 
 - 👯 I’m looking to collaborate on [SuperUploader](https://github.com/ProjectsOfMLee/SuperUploader)
-
-- 🤝 I’m looking for help with **TKommerce**
 
 - 📫 How to reach me **horus.li@mail.utoronto.ca**
 
