@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm M Li</h1>
-<h3 align="center">Platform Engineer｜AIGC</h3>
+<h1 align="center">Hi👋 I'm a</h1>
+<h3 align="center"> Platform Engineer｜AI enthusiast </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=projectsofmlee" alt="projectsofmlee" /></a> </p>
 
