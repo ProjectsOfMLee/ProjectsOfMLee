@@ -3,10 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=projectsofmlee" alt="projectsofmlee" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, C++ and genAI-related frameworks**
-
+- 🌱 I’m currently focused on **Platform Engineering, Rust and AI agents**
+- 💼 I do my work on GitLab, GitHub is for community and I prefer to keep my GitHub projects private (not gatekeeping! just shy..)
 - 👯 I’m looking to collaborate on [SuperUploader](https://github.com/ProjectsOfMLee/SuperUploader)
-
 - 📫 How to reach me **hleepersonal1@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
