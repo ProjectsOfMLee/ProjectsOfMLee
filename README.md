@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋 I'm a</h1>
-<h3 align="center"> AI Infrastructure Platform Engineer </h3>
+<h1 align="center"> Hi👋 </h1>
+<h3 align="center"> I work as an AI Infrastructure Platform Engineer </h3>
 
 - 🌱 I’m currently focused on **Platform Engineering, Rust and AI infra**
 - 💼 I do my work on GitLab, GitHub is for community and I prefer to keep my GitHub projects private (not gatekeeping! just shy..)
