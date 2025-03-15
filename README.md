@@ -1,9 +1,7 @@
 <h1 align="center">Hi👋 I'm a</h1>
-<h3 align="center"> Platform Engineer｜AI enthusiast </h3>
+<h3 align="center"> AI Infrastructure Platform Engineer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=projectsofmlee" alt="projectsofmlee" /></a> </p>
-
-- 🌱 I’m currently focused on **Platform Engineering, Rust and AI agents**
+- 🌱 I’m currently focused on **Platform Engineering, Rust and AI infra**
 - 💼 I do my work on GitLab, GitHub is for community and I prefer to keep my GitHub projects private (not gatekeeping! just shy..)
 - 👯 I’m looking to collaborate on [SuperUploader](https://github.com/ProjectsOfMLee/SuperUploader)
 - 📫 How to reach me **hleepersonal1@gmail.com**
